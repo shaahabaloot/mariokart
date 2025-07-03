@@ -2,7 +2,12 @@
 
 import streamlit as st
 import pandas as pd
-import config 
+import config
+# Google Search Consoleの所有権確認用メタタグ
+st.markdown(
+    '<meta name="google-site-verification" content="RvhdxrDN0zomhAJyz-XbHmpR5L9LkU9zPkxSXanlCW8" />',
+    unsafe_allow_html=True,
+)
 # --- データ準備 ---
 # ファイルが存在しない場合のエラーハンドリング
 try:
