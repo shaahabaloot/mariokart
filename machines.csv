@@ -1,0 +1,41 @@
+﻿Vehicle,Road,Terrain,Water,Unknown,Accel/MT,Weight,Handling
+Standard Bike,1,1,1,?,9,0,6
+Cute Scoot,1,1,1,?,9,0,6
+Tune Thumper,1,1,1,?,9,0,6
+Fin Twin,0,0,5,?,8,0,6
+Dolphin Dasher,0,0,5,?,8,0,6
+Rally Bike,0,5,0,?,8,0,6
+Hyper Pipe,0,5,0,?,8,0,6
+Pipe Frame,2,2,2,?,8,1,5
+Biddybuggy,1,6,1,?,7,1,5
+Mach Rocket,6,1,1,?,7,0,6
+R.O.B. H.O.G.,6,1,1,?,7,0,6
+Loco Moto,4,4,4,?,6,1,5
+Baby Blooper,7,2,2,?,6,1,5
+Standard Kart,5,5,5,?,5,2,4
+Plushbuggy,5,5,5,?,5,2,4
+Blastronaut III,5,5,5,?,6,3,2
+Dread Sled,3,9,5,?,3,3,4
+Cloud 9,4,4,8,?,4,3,3
+Ribbit Revster,4,4,8,?,4,3,3
+Carpet Flyer,4,4,8,?,4,3,3
+Funky Dorrie,4,4,8,?,5,5,1
+Zoom Buggy,4,8,4,?,4,3,3
+Rally Kart,4,8,4,?,4,3,3
+Roadster Royale,8,4,4,?,4,3,3
+B-Dasher,8,4,4,?,4,3,3
+Hot Rod,8,4,4,?,4,3,3
+Bumble V,8,4,4,?,4,3,3
+W-Twin Chopper,7,7,7,?,3,2,4
+Billdozer,9,6,6,?,2,5,2
+Big Horn,9,6,6,?,2,5,2
+Rallygator,9,6,6,?,3,6,0
+Stellar Sled,6,8,11,?,0,5,3
+Lobster Roller,7,7,10,?,2,6,0
+Mecha Trike,7,7,10,?,1,5,2
+Bowser Bruiser,7,10,7,?,1,5,2
+Li'l Dumpy,7,10,7,?,1,5,2
+Tiny Titan,7,10,7,?,1,5,2
+Chargin Truck,7,10,7,?,1,5,2
+Reel Racer,8,8,8,?,2,3,3
+Junkyard Hog,8,8,8,?,3,4,1
