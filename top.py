@@ -27,10 +27,7 @@ st.set_page_config(layout="wide",
                     page_icon=config.PAGE_ICON
                     )
 st.title('🏎️ マリオカートワールド カスタム検索')
-st.markdown(
-    '<meta name="google-site-verification" content="RvhdxrDN0zomhAJyz-XbHmpR5L9LkU9zPkxSXanlCW8" />',
-    unsafe_allow_html=True,
-)
+
 with st.sidebar:
     st.header("アプリ情報")
 
