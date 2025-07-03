@@ -2,7 +2,7 @@
 
 import streamlit as st
 import pandas as pd
-import config 
+#import config 
 # --- データ準備 ---
 # ファイルが存在しない場合のエラーハンドリング
 try:
@@ -21,8 +21,9 @@ df_char = df_char_raw.groupby(stat_columns, as_index=False).agg(
 
 # --- WebアプリケーションのUI設定 ---
 st.set_page_config(layout="wide",
-                    page_title=config.PAGE_TITLE,
-                    page_icon=config.PAGE_ICON)
+                    #page_title=config.PAGE_TITLE,
+                    #page_icon=config.PAGE_ICON
+                    )
 st.title('🏎️ マリオカートワールド カスタム検索')
 with st.sidebar:
     st.header("アプリ情報")
