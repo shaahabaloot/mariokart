@@ -46,6 +46,9 @@ with st.sidebar:
     [カスタニエ](https://x.com/kc1game)
     """)
     st.markdown("""
+    このサイトを紹介したり、動画・配信で利用したりする際の連絡は不要です。
+    """)
+    st.markdown("""
     **【連絡先】**
     
     [こちらから](https://forms.gle/KxHfwzQqhgBFFWvn6)
